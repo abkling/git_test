@@ -6,4 +6,8 @@ TRYING PICO!
 
 Andrea doing some stuff is it working
 
+<<<<<<< HEAD
 blahblah
+=======
+Here are my changes.
+>>>>>>> 488e626c9b08bbad02f6f6f8bc848e486f7b4c0e
